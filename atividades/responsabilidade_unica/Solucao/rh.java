@@ -1,10 +1,8 @@
-public class rh {
 
-    public void salvarClienteNoBancoDeDados() {
-        // Código para salvar os detalhes do cliente no banco de dados
-    }
-    
+public class RH {
+
     public void enviarEmailConfirmacao() {
-        // Código para enviar um email de confirmação para o cliente
+        System.out.println("Enviando email para confima��o!!!");
     }
+
 }
